@@ -1,0 +1,107 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Sambit Kumar Swain
+Sambit Kumar Swain
+Web developer
+
+Show Contacts
+
+Email
+swainsambitkumar59@gmail.com
+
+Phone
+9861164945
+
+Birthday
+May 03, 2002
+
+Location
+Bhubaneswar, Odisha
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+I am an ambitious and results-oriented enthusiast, eager to bring my talents to a forward-thinking organization. In pursuit of a challenging role where I can harness my strong interpersonal abilities, persuasive communication, and strategic innovative prowess to propel the organization's growth. With a versatile skill set in both front-end and back-end development, I am proficient in Java, HTML, CSS, JavaScript, and PHP. Let my technical expertise complement my strategic mindset, contributing to the success and innovation of your team.
+
+## service
+
+What i'm doing
+
+alt = design icon
+Web design
+The most modern and high-quality design made at a professional level.
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+alt = mobile app icon
+Mobile apps
+Professional development of applications for iOS and Android.
+
+# resume
+
+Resume
+
+Education
+
+Master Of Computer Application
+(Kalinga Institute of Industrial Technology, Bhubaneswar)
+2022 — Present
+
+• During my college journey, I mastered key academic subjects such as Java with a strong grasp of Object-Oriented Programming, Python, and delved into Artificial Intelligence with a focus on Machine Learning.
+• I successfully completed diverse projects, including the "Online Task Management System" using HTML,CSS,JavaScript,PHP and Bootstrap. Additionally, I crafted a polished Personal Portfolio .
+
+Bachelor Of Science
+(Bahugram Degree college, Cuttack)
+2019 — 2022
+
+• Throughout my collegiate experience, I honed my expertise in management, acquiring a versatile toolkit of soft skills such as effective communication, problem-solving, leadership, and adaptability. These competencies empowered me to navigate diverse challenges with resilience and finesse, fostering both personal and professional growth.
+
+Experience
+
+Digital Marketing Professional
+(Otechnos Soft Solution)
+2024- Present
+
+• I have learnt the realm of digital marketing, gaining proficiency in various tools and strategies essential for effective campaigns and advertisement dissemination. I acquired skills in audience targeting, content creation, social media management, and analytics interpretation, enabling me to craft compelling marketing initiatives tailored to diverse audiences.
+
+Marketing Team-Player
+(Vestige Marketing Pvt. Ltd)
+2020 - 2022
+• I developed and execute marketing strategies to promote Vestige's diverse range of health and wellness products.
+• Implemented lead generation strategies to identify and capture potential customers interested in Vestige products.
+
+
+My skills
+HTML & CSS
+90%
+JavaScript
+80%
+Java
+80%
+SQL
+80%
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
